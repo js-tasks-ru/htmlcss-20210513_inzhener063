@@ -28,5 +28,14 @@
     "husky": "^6.0.0",
     "lint-staged": "^10.5.4",
     "prettier": "^2.2.1"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruslaner063/htmlcss-20210513_inzhener063.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ruslaner063/htmlcss-20210513_inzhener063/issues"
+  },
+  "homepage": "https://github.com/Ruslaner063/htmlcss-20210513_inzhener063#readme"
 }
